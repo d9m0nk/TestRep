@@ -26,13 +26,13 @@
 			<Title>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Кнопка</v8:content>
+					<v8:content>ОК</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Кнопка</v8:content>
+					<v8:content>ОК</v8:content>
 				</v8:item>
 			</ToolTip>
 		</Command>
@@ -40,13 +40,13 @@
 			<Title>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Еще кнопка</v8:content>
+					<v8:content>Еще кнопка ОК</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Еще кнопка</v8:content>
+					<v8:content>Еще кнопка ОК Подсказка</v8:content>
 				</v8:item>
 			</ToolTip>
 		</Command>
